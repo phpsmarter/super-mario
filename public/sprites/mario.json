@@ -56,7 +56,11 @@
         },
         {
             "name": "swim-5",
+<<<<<<< e40422c9e0f4c181a7f8f50e2f56918218dd220f
             "rect": [198, 0, 16, 16]
+=======
+            "rect": [208, 0, 16, 16]
+>>>>>>> Updated character image, added large Mario to sprite sheet.
         },
         {
             "name": "idle-large",
@@ -91,7 +95,7 @@
     "animations": [
         {
             "name": "run",
-            "frameLen": 8,
+            "frameLen": 6,
             "frames": [
                 "run-1",
                 "run-2",
