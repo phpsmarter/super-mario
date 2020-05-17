@@ -1,94 +1,90 @@
 {
-    "imageURL": "/img/character.png",
+    "imageURL": "/img/sprites.png",
 
     "frames": [
         {
             "name": "idle",
-            "rect": [0, 0, 16, 16]
+            "rect": [0, 88, 16, 16]
         },
         {
             "name": "run-1",
-            "rect": [16, 0, 16, 16]
+            "rect": [16, 88, 16, 16]
         },
         {
             "name": "run-2",
-            "rect": [32, 0, 16, 16]
+            "rect": [32, 88, 16, 16]
         },
         {
             "name": "run-3",
-            "rect": [48, 0, 16, 16]
+            "rect": [48, 88, 16, 16]
         },
         {
             "name": "break",
-            "rect": [64, 0, 16, 16]
+            "rect": [64, 88, 16, 16]
         },
         {
             "name": "jump",
-            "rect": [70, 0, 16, 16]
+            "rect": [80, 88, 16, 16]
         },
         {
             "name": "die",
-            "rect": [86, 0, 16, 16]
+            "rect": [96, 88, 16, 16]
         },
         {
             "name": "climb-1",
-            "rect": [102, 0, 16, 16]
+            "rect": [0, 104, 16, 16]
         },
         {
             "name": "climb-2",
-            "rect": [118, 0, 16, 16]
+            "rect": [16, 104, 16, 16]
         },
         {
             "name": "swim-1",
-            "rect": [134, 0, 16, 16]
+            "rect": [32, 104, 16, 16]
         },
         {
             "name": "swim-2",
-            "rect": [150, 0, 16, 16]
+            "rect": [48, 104, 16, 16]
         },
         {
             "name": "swim-3",
-            "rect": [166, 0, 16, 16]
+            "rect": [64, 104, 16, 16]
         },
         {
             "name": "swim-4",
-            "rect": [182, 0, 16, 16]
+            "rect": [80, 104, 16, 16]
         },
         {
             "name": "swim-5",
-<<<<<<< e40422c9e0f4c181a7f8f50e2f56918218dd220f
-            "rect": [198, 0, 16, 16]
-=======
-            "rect": [208, 0, 16, 16]
->>>>>>> Updated character image, added large Mario to sprite sheet.
+            "rect": [96, 104, 16, 16]
         },
         {
             "name": "idle-large",
-            "rect": [0, 16, 16, 32]
+            "rect": [112, 88, 16, 32]
         },
         {
             "name": "run-1-large",
-            "rect": [16, 16, 16, 32]
+            "rect": [128, 88, 16, 32]
         },
         {
             "name": "run-2-large",
-            "rect": [32, 16, 16, 32]
+            "rect": [144, 88, 16, 32]
         },
         {
             "name": "run-3-large",
-            "rect": [48, 16, 16, 32]
+            "rect": [160, 88, 16, 32]
         },
         {
             "name": "break-large",
-            "rect": [64, 16, 16, 32]
+            "rect": [176, 88, 16, 32]
         },
         {
             "name": "jump-large",
-            "rect": [80, 16, 16, 32]
+            "rect": [192, 88, 16, 32]
         },
         {
             "name": "crouch-large",
-            "rect": [96, 16, 16, 32]
+            "rect": [0, 120, 16, 32]
         }
     ],
 
